@@ -1,0 +1,18 @@
+Package: clusterFractions
+Title: Calculates the distribution of groups among different clusters
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Miles",
+           family = "Smith",
+           role = c("aut", "cre"),
+           email = "miles-smith@omrf.org")
+Description: What the package does (one paragraph).
+Imports:
+    dplyr,
+    ggplot2,
+    magrittr
+License: BSD_3_clause + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
